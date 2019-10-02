@@ -53,4 +53,4 @@ The final output of the individual analysis parts matches the output of the pape
 
 ## Code description and help
 The majority of all code is written in jupyter notebook format, including detailed information in markdown about the purpose and result of the individual sections of code.  
-In case anything is not clear please send an email to: mcaldera@cemm.at
+In case anything is not clear please file an issue in this githib repository.
