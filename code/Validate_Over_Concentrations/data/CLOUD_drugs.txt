@@ -1,0 +1,267 @@
+CLOUD042	Trihexyphenidyl
+CLOUD049	Dronedarone
+CLOUD160	Tetracycline
+CLOUD197	Paromomycin
+CLOUD190	Nitisinone
+CLOUD070	Dutasteride
+CLOUD256	Triflupromazine
+CLOUD257	6-Hydroxybuspirone
+CLOUD262	Buspirone
+CLOUD014	Norcisapride
+CLOUD028	Olmesartan
+CLOUD067	Cisapride
+CLOUD081	Azithromycin
+CLOUD060	Sumatriptan
+CLOUD148	Metformin
+CLOUD095	Enalaprilat
+CLOUD009	Pyridostigmine  Bromide
+CLOUD091	Tacrine
+CLOUD116	Galantamine
+CLOUD061	Sitagliptin
+CLOUD065	Saxagliptin
+CLOUD122	Dipyridamole
+CLOUD138	Pentostatin
+CLOUD019	Clopidogrel
+CLOUD242	Fomepizole
+CLOUD110	Terazosin
+CLOUD017	Amiloride
+CLOUD054	Triamterene
+CLOUD069	Dihydroergotamine
+CLOUD125	Tolazoline
+CLOUD186	Methyldopa
+CLOUD266	Guanadrel
+CLOUD159	Miglitol
+CLOUD004	Dexmedetomidine
+CLOUD090	Eptifibatide
+CLOUD093	Olmesartan Medoxomil
+CLOUD002	Aliskiren
+CLOUD100	Tolvaptan
+CLOUD097	Levamisole
+CLOUD163	Nateglinide
+CLOUD240	Acetohexamide
+CLOUD139	Docetaxel
+CLOUD045	Flumazenil
+CLOUD124	Atenolol
+CLOUD082	Isoproterenol
+CLOUD133	Epinephrine
+CLOUD140	Bretylium Tosylate
+CLOUD087	Mebendazole
+CLOUD143	Albendazole
+CLOUD152	Vinblastine
+CLOUD056	Bumetanide
+CLOUD026	Maraviroc
+CLOUD222	Cinacalcet
+CLOUD076	Entacapone
+CLOUD106	Prednisolone
+CLOUD073	Sildenafil
+CLOUD079	Milrinone
+CLOUD012	Carbachol
+CLOUD039	Vecuronium Bromide
+CLOUD123	Lubiprostone
+CLOUD008	Argatroban
+CLOUD113	Itraconazole
+CLOUD092	Zafirlukast
+CLOUD177	D-Cycloserine
+CLOUD126	Methylergonovine
+CLOUD208	Cilastatin
+CLOUD001	Desoxycorticosterone Pivalate
+CLOUD038	Naltrexone
+CLOUD058	Loperamide
+CLOUD203	Teriflunomide (A77 1726)
+CLOUD243	Leflunomide
+CLOUD051	Testosterone
+CLOUD136	Hydroxyflutamide
+CLOUD142	Flutamide
+CLOUD115	Azacitidine
+CLOUD023	Dopamine
+CLOUD068	Risperidone
+CLOUD084	Aripiprazole
+CLOUD013	Asenapine
+CLOUD011	Pramipexole
+CLOUD184	Topiramate
+CLOUD206	Bosentan
+CLOUD252	Fosfomycin
+CLOUD147	Iloprost
+CLOUD064	Tamoxifen
+CLOUD088	Ethinyl Estradiol
+CLOUD101	Endoxifen
+CLOUD245	Pyrazinamide
+CLOUD248	Pyrazinoic Acid
+CLOUD071	Sunitinib
+CLOUD219	Sorafenib
+CLOUD196	Everolimus
+CLOUD189	Gabapentin
+CLOUD246	Baclofen
+CLOUD254	Piperazine Hexahydrate
+CLOUD108	Tiagabine
+CLOUD200	Etomidate
+CLOUD226	Primidone
+CLOUD141	Lansoprazole
+CLOUD118	Nizatidine
+CLOUD223	Miglustat
+CLOUD249	Valproic Acid
+CLOUD007	Isosorbide Dinitrate
+CLOUD010	Azatadine
+CLOUD112	Vorinostat
+CLOUD015	Amodiaquine
+CLOUD031	5-Fluorouracil
+CLOUD117	Irinotecan
+CLOUD237	7-Ethyl-10-Hydroxy-Camptothecin
+CLOUD102	6-Mercaptopurine
+CLOUD176	Ribavirin 5'-Triphosphate
+CLOUD178	Ribavirin
+CLOUD165	Mycophenolic Acid
+CLOUD171	Isoniazid
+CLOUD258	Pinacidil
+CLOUD212	Clofibric Acid
+CLOUD247	Clofibrate
+CLOUD022	Oxyphenonium Bromide
+CLOUD260	Amantadine
+CLOUD055	Cevimeline
+CLOUD261	Succinylcholine Chloride
+CLOUD020	Tranylcypromine
+CLOUD030	Pargyline
+CLOUD107	Ramelteon
+CLOUD229	(+/-)-Sulfinpyrazone
+CLOUD021	Oseltamivir
+CLOUD220	Oseltamivir Acid
+CLOUD103	Dihydroartemisinin
+CLOUD111	Artemether
+CLOUD098	Mecamylamine
+CLOUD137	Cisatracurium Besylate
+CLOUD267	Varenicline
+CLOUD066	Ezetimibe
+CLOUD154	Ezetimibe Glucuronide
+CLOUD024	Bortezomib
+CLOUD025	Trifluoperazine
+CLOUD027	Ulipristal Acetate
+CLOUD032	Memantine
+CLOUD034	3-Amino-2-Oxazolidinone
+CLOUD036	Proguanil
+CLOUD041	Busulfan
+CLOUD046	Chlorambucil
+CLOUD048	Canrenone
+CLOUD057	Cytarabine
+CLOUD059	Nisoldipine
+CLOUD062	Disulfiram
+CLOUD072	Spironolactone
+CLOUD074	Trioxsalen
+CLOUD077	Digitoxin
+CLOUD078	Zalcitabine
+CLOUD086	Rifabutin
+CLOUD089	Methotrexate
+CLOUD099	Procarbazine
+CLOUD104	Cerivastatin
+CLOUD120	Tizoxanide
+CLOUD128	Cycloguanil
+CLOUD135	Furazolidone
+CLOUD144	Trimethoprim
+CLOUD146	Abacavir
+CLOUD158	Stanozolol
+CLOUD161	Sulfameter
+CLOUD162	Carglumic Acid
+CLOUD164	Temozolomide
+CLOUD166	Meclofenamic Acid
+CLOUD170	Metronidazole
+CLOUD172	Amprenavir
+CLOUD174	Nitazoxanide
+CLOUD180	Diazoxide
+CLOUD182	Altretamine
+CLOUD185	Ethambutol
+CLOUD187	Zileuton
+CLOUD188	Carisoprodol
+CLOUD192	Acetazolamide
+CLOUD193	Oxyphenbutazone
+CLOUD195	Trilostane
+CLOUD204	Dexchlorpheniramine
+CLOUD210	Hydroxymetronidazole
+CLOUD214	Sulbactam
+CLOUD225	Carmustine
+CLOUD233	Ganciclovir
+CLOUD241	Dichlorphenamide
+CLOUD250	Carboplatin
+CLOUD251	Theophylline
+CLOUD259	Sodium Diethyldithiocarbamate Trihydrate
+CLOUD264	Aprepitant
+CLOUD265	Foscarnet
+CLOUD006	Maprotiline
+CLOUD044	Imipramine
+CLOUD109	Amoxapine
+CLOUD134	Trazodone
+CLOUD207	Eflornithine
+CLOUD005	Zaleplon
+CLOUD216	Cefmenoxime
+CLOUD114	Imatinib
+CLOUD253	Tranexamic Acid
+CLOUD016	Rosiglitazone
+CLOUD043	Levonorgestrel
+CLOUD230	Fenoprofen
+CLOUD179	Hydroxyurea
+CLOUD209	Clofarabine
+CLOUD132	Dantrolene
+CLOUD033	Fluvoxamine
+CLOUD037	Sertraline
+CLOUD198	Citalopram
+CLOUD181	Mephenytoin
+CLOUD244	Probenecid
+CLOUD080	Acitretin
+CLOUD096	Tetrabenazine
+CLOUD202	Metyrosine
+CLOUD050	Methyclothiazide
+CLOUD175	Propylthiouracil
+CLOUD053	Doxorubicin
+CLOUD063	Mitoxantrone
+CLOUD156	Enoxacin
+CLOUD231	Novobiocin
+CLOUD234	Pazopanib
+CLOUD003	Chloroquine
+CLOUD029	Diphenidol
+CLOUD047	Pentamidine
+CLOUD052	Riluzole
+CLOUD083	Niclosamide
+CLOUD094	Diethylcarbamazine
+CLOUD121	Thalidomide
+CLOUD129	Mefloquine
+CLOUD130	Lumefantrine
+CLOUD131	Trimethobenzamide
+CLOUD149	Ranolazine
+CLOUD150	Lithium Citrate
+CLOUD151	Praziquantel
+CLOUD153	Metaxalone
+CLOUD168	Mesalazine
+CLOUD169	Mitotane
+CLOUD173	Thiabendazole
+CLOUD183	Chlorphenesin
+CLOUD194	4-Aminosalicylic Acid
+CLOUD199	Halofantrine
+CLOUD213	Chlorzoxazone
+CLOUD217	Rufinamide
+CLOUD228	Mebutamate
+CLOUD232	Quinine
+CLOUD236	Glatiramer Acetate
+CLOUD238	Tinidazole
+CLOUD239	Felbamate
+CLOUD255	Auranofin
+CLOUD263	Phensuximide
+CLOUD085	Anastrozole
+CLOUD227	Acetohydroxamic Acid
+CLOUD211	Raltegravir
+CLOUD221	Efavirenz
+CLOUD167	Phenprocoumon
+CLOUD035	Ibutilide
+CLOUD155	Lamotrigine
+CLOUD145	Lacosamide
+CLOUD191	Allopurinol
+CLOUD215	Febuxostat
+CLOUD018	Hydroxychloroquine
+CLOUD040	Minoxidil
+CLOUD075	Acarbose
+CLOUD105	Hydralazine
+CLOUD119	Tacrolimus
+CLOUD127	Minoxidil Sulfate
+CLOUD157	Doxapram
+CLOUD201	Armodafinil
+CLOUD205	Gefitinib
+CLOUD218	Atovaquone
+CLOUD224	Probucol
+CLOUD235	Zonisamide

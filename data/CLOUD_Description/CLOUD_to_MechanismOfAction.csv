@@ -1,0 +1,268 @@
+CLOUD_ID,DrugName,General Target Class,target,activity
+CLOUD090,Eptifibatide,cell adhesion molecule,Alpha(IIb)beta(3) integrin receptor,glycoprotein IIb-IIIa receptor inhibitor
+CLOUD071,Sunitinib,Kinase,Fetal liver kinase 1 Fetal liver kinase 1 CD135 antigen CD135 antigen PDGF-R PDGF-R CD117 antigen CD117 antigen,receptor protein-tyrosine kinase inhibitor
+CLOUD219,Sorafenib,Kinase,Flt-1 Flt-1 Flt-1 BRAF BRAF BRAF C-ret C-ret C-ret,receptor protein-tyrosine kinase inhibitor
+CLOUD114,Imatinib,Kinase,PDGF-R PDGF-R PDGF-R CD117 antigen CD117 antigen CD117 antigen C-ABL C-ABL C-ABL,receptor protein-tyrosine kinase inhibitor
+CLOUD234,Pazopanib,Kinase,Tyrosine-protein kinase receptor FLT4 Tyrosine-protein kinase receptor FLT4 Flt-1 Flt-1 Fetal liver kinase 1 Fetal liver kinase 1 PDGF-R PDGF-R CD117 antigen CD117 antigen,receptor protein-tyrosine kinase inhibitor
+CLOUD205,Gefitinib,Kinase,,receptor protein-tyrosine kinase inhibitor
+CLOUD034,3-Amino-2-Oxazolidinone,DNA,NONE,bacterial DNA intercalator
+CLOUD041,Busulfan,DNA,NONE,DNA alkylator
+CLOUD046,Chlorambucil,DNA,NONE,DNA alkylator
+CLOUD074,Trioxsalen,DNA,None,DNA intercalator
+CLOUD099,Procarbazine,DNA,NONE,DNA alkylator
+CLOUD135,Furazolidone,DNA,NONE,bacterial DNA intercalator
+CLOUD164,Temozolomide,DNA,NONE,DNA alkylator
+CLOUD170,Metronidazole,DNA,NONE,bacterial DNA alkylator
+CLOUD182,Altretamine,DNA,NONE,DNA alkylator
+CLOUD210,Hydroxymetronidazole,DNA,NONE,bacterial DNA alkylator
+CLOUD225,Carmustine,DNA,NONE,DNA alkylator
+CLOUD250,Carboplatin,DNA,NONE,DNA alkylating-like
+CLOUD053,Doxorubicin,DNA isomerase,topoisomerase,DNA intercalator:topoisomerase inhibitor
+CLOUD042,Trihexyphenidyl,GPCR,(m)AChR,muscarinic acetylcholine receptor antagonist
+CLOUD256,Triflupromazine,GPCR,5-HT 2B,dopamine receptor antagonist:histamine receptor antagonist:serotonin receptor antagonist:muscarinic acetylcholine receptor antagonist:alpha adrenergic receptor antagonist
+CLOUD257,6-Hydroxybuspirone,GPCR,5-HT1A,serotonin receptor agonist
+CLOUD262,Buspirone,GPCR,5-HT1A,serotonin receptor agonist
+CLOUD014,Norcisapride,GPCR,5-HT4,serotonin receptor agonist
+CLOUD028,Olmesartan,GPCR,5-HT4,serotonin receptor agonist
+CLOUD067,Cisapride,GPCR,5-HT4,serotonin receptor agonist
+CLOUD060,Sumatriptan,GPCR,5HT1D,serotonin receptor agonist
+CLOUD019,Clopidogrel,GPCR,Adenosine P2Y12 receptor Adenosine P2Y12 receptor,P2Y receptor antagonist
+CLOUD110,Terazosin,GPCR,Alpha 1D-adrenoceptor,adrenergic receptor antagonist
+CLOUD069,Dihydroergotamine,GPCR,Alpha-adrenoceptor,adrenergic receptor agonist:adrenergic receptor antagonist
+CLOUD125,Tolazoline,GPCR,Alpha-adrenoceptor,adrenergic receptor antagonist
+CLOUD004,Dexmedetomidine,GPCR,Alpha(2)-adrenoceptor,adrenergic receptor agonist
+CLOUD093,Olmesartan Medoxomil,GPCR,Angiotensin 1 receptor,angiotensin receptor antagonist
+CLOUD100,Tolvaptan,GPCR,Antidiuretic hormone receptor Antidiuretic hormone receptor,vasopressin receptor antagonist
+CLOUD124,Atenolol,GPCR,Beta-1 adrenoceptor,adrenergic receptor antagonist
+CLOUD082,Isoproterenol,GPCR,Beta-Adrenoceptor,adrenergic receptor agonist
+CLOUD133,Epinephrine,GPCR,Beta-Adrenoceptor,adrenergic receptor agonist
+CLOUD026,Maraviroc,GPCR,C-C CKR-5 C-C CKR-5,chemokine receptor antagonist
+CLOUD222,Cinacalcet,GPCR,CaSR CaSR,calcium sensing receptor agonist
+CLOUD012,Carbachol,GPCR,CHRNA2,muscarinic acetylcholine receptor agonist:nicotinic acetylcholine receptor agonist
+CLOUD092,Zafirlukast,GPCR,CysLTR1,leukotriene receptor antagonist
+CLOUD126,Methylergonovine,GPCR,D(1) dopamine receptor,dopamine receptor agonist:dopamine receptor antagonist
+CLOUD038,Naltrexone,GPCR,Delta opioid receptor,opioid receptor antagonist
+CLOUD058,Loperamide,GPCR,Delta opioid receptor,opioid receptor agonist
+CLOUD023,Dopamine,GPCR,Dopamine D2 receptor,dopamine receptor agonist
+CLOUD068,Risperidone,GPCR,Dopamine D2 receptor,serotonin receptor antagonist:dopamine receptor antagonist:alpha adrenergic receptor antagonist
+CLOUD084,Aripiprazole,GPCR,Dopamine D2 receptor,dopamine receptor agonist:dopamine receptor antagonist:serotonin receptor agonist:serotonin receptor antagonist
+CLOUD013,Asenapine,GPCR,Dopamine D2 receptor 5-HT-2,serotonin receptor antagonist:dopamine receptor antagonist:alpha adrenergic receptor antagonist
+CLOUD011,Pramipexole,GPCR,Dopamine D2 receptor Dopamine receptor 3,dopamine receptor agonist
+CLOUD206,Bosentan,GPCR,Endothelin A receptor Endothelin receptor B,endothelin receptor antagonist
+CLOUD147,Iloprost,GPCR,EP2 receptor,prostaglandin receptor agonist
+CLOUD246,Baclofen,GPCR,GABA B receptor,metabotropic GABA receptor agonist
+CLOUD118,Nizatidine,GPCR,Gastric receptor I,histamine receptor antagonist
+CLOUD010,Azatadine,GPCR,H1 Histamine receptor,histamine receptor antagonist
+CLOUD022,Oxyphenonium Bromide,GPCR,M1 receptor,muscarinic acetylcholine receptor antagonist
+CLOUD055,Cevimeline,GPCR,M3 receptor,muscarinic acetylcholine receptor agonist
+CLOUD107,Ramelteon,GPCR,Mel1b melatonin receptor Mel1b melatonin receptor,melatonin receptor agonist
+CLOUD025,Trifluoperazine,GPCR,NONE,dopamine receptor antagonist
+CLOUD204,Dexchlorpheniramine,GPCR,None,histamine receptor antagonist
+CLOUD264,Aprepitant,GPCR,None,neurokinin receptor antagonist
+CLOUD251,Theophylline,GPCR hydrolase,NONE,adenosine receptor antagonist:phosphodiesterase inhibitor
+CLOUD095,Enalaprilat,hydrolase,ACE,angiotensin converting enzyme inhibitor
+CLOUD009,Pyridostigmine  Bromide,hydrolase,AChE,acetylcholinesterase inhibitor
+CLOUD091,Tacrine,hydrolase,AChE,acetylcholinesterase inhibitor
+CLOUD116,Galantamine,hydrolase,AChE,acetylcholinesterase inhibitor
+CLOUD061,Sitagliptin,hydrolase,ADABP,dipeptidyl peptidase 4 inhibitor
+CLOUD065,Saxagliptin,hydrolase,ADABP,dipeptidyl peptidase 4 inhibitor
+CLOUD122,Dipyridamole,hydrolase,Adenosine aminohydrolase,phosphodiesterase inhibitor
+CLOUD138,Pentostatin,hydrolase,Adenosine aminohydrolase,adenosine deaminase inhibitor
+CLOUD159,Miglitol,hydrolase,Alpha-glucosidase,alpha glucosidase inhibitor
+CLOUD002,Aliskiren,hydrolase,Angiotensinogenase,renin inhibitor
+CLOUD073,Sildenafil,hydrolase,CGB-PDE,phosphodiesterase inhibitor
+CLOUD079,Milrinone,hydrolase,CGI-PDE A,phosphodiesterase inhibitor
+CLOUD008,Argatroban,hydrolase,Coagulation factor II,thrombin inhibitor
+CLOUD208,Cilastatin,hydrolase,Dehydropeptidase-I,renal dipeptidase inhibitor
+CLOUD112,Vorinostat,hydrolase,HDAC1,histone deacetylase inhibitor
+CLOUD021,Oseltamivir,hydrolase,N-acylneuraminate glycohydrolase,viral neuraminidase inhibitor
+CLOUD220,Oseltamivir Acid,hydrolase,N-acylneuraminate glycohydrolase,viral neuraminidase inhibitor
+CLOUD024,Bortezomib,hydrolase,NONE,proteasome inhibitor
+CLOUD214,Sulbactam,hydrolase,None,bacterial beta-lactamase inhibitor
+CLOUD253,Tranexamic Acid,hydrolase,Plasmin,plasminogen inhibitor
+CLOUD227,Acetohydroxamic Acid,hydrolase,Urea amidohydrolase,bacterial urease inhibitor
+CLOUD211,Raltegravir,hydrolase,viral HIV 1 Integrase,viral integrase inhibitor
+CLOUD075,Acarbose,hydrolase,,alpha glucosidase inhibitor
+CLOUD049,Dronedarone,ion channel,02-Sensitive Potassium Channel Kv1.5,voltage-gated potassium channel blocker:voltage-gated sodium channel blocker:voltage-gated calcium channel blocker
+CLOUD017,Amiloride,ion channel,Alpha ENaC,amiloride-sensitive sodium channel inhibitor
+CLOUD054,Triamterene,ion channel,Alpha ENaC,amiloride-sensitive sodium channel inhibitor
+CLOUD097,Levamisole,ion channel,AP-TNAP,helminthic nicotinic acetylcholine receptor agonist
+CLOUD163,Nateglinide,ion channel,ATP dependent K+ channel,sulfonylurea receptor agonist
+CLOUD045,Flumazenil,ion channel,benzodiazepine receptor antagonist,ionotropic GABA receptor antagonist
+CLOUD140,Bretylium Tosylate,ion channel,Beta-Adrenoceptor,voltage-gated potassium channel blocker
+CLOUD039,Vecuronium Bromide,ion channel,CHRNA2,nicotinic acetylcholine receptor antagonist
+CLOUD123,Lubiprostone,ion channel,ClC-2,voltage-gated chloride channel activator
+CLOUD184,Topiramate,ion channel,EAA3 EAA3,voltage-gated sodium channel blocker:ionotropic glutamate receptor antagonist
+CLOUD189,Gabapentin,ion channel,GABA B receptor,voltage-gated calcium channel blocker
+CLOUD254,Piperazine Hexahydrate,ion channel,GABA receptor,metabotropic GABA receptor agonist
+CLOUD200,Etomidate,ion channel,GABA(A) receptor subunit alpha-1,ionotropic GABA receptor agonist
+CLOUD226,Primidone,ion channel,GABA(A) receptor subunit alpha-1,ionotropic GABA receptor agonist
+CLOUD258,Pinacidil,ion channel,Kir6.2/SUR2,ATP-sensitive inward rectifier potassium channel opener
+CLOUD261,Succinylcholine Chloride,ion channel,M3 receptor,nicotinic acetylcholine receptor antagonist
+CLOUD098,Mecamylamine,ion channel,nAChR,nicotinic acetylcholine receptor antagonist
+CLOUD137,Cisatracurium Besylate,ion channel,nAChR,nicotinic acetylcholine receptor antagonist
+CLOUD267,Varenicline,ion channel,nAChR,nicotinic acetylcholine receptor agonist
+CLOUD032,Memantine,ion channel,NONE,ionotropic glutamate receptor antagonist
+CLOUD059,Nisoldipine,ion channel,NONE,voltage-gated calcium channel blocker
+CLOUD188,Carisoprodol,ion channel,None,ionotropic GABA receptor agonist
+CLOUD005,Zaleplon,ion channel,Omega-1 receptor situated on the alpha subunit of the GABA-A receptor complex,ionotropic GABA receptor agonist
+CLOUD132,Dantrolene,ion channel,RyR,ryanodine receptor antagonist
+CLOUD181,Mephenytoin,ion channel,Sodium channel protein type V subunit alpha,voltage-gated sodium channel blocker
+CLOUD035,Ibutilide,ion channel,Voltage-gated calcium channel subunit alpha Cav1.2,voltage-gated potassium channel blocker
+CLOUD155,Lamotrigine,ion channel,Voltage-sensitive sodium channel,voltage-gated sodium channel blocker
+CLOUD145,Lacosamide,ion channel,Voltage-sensitive sodium channel Voltage-sensitive sodium channel,voltage-gated sodium channel blocker
+CLOUD040,Minoxidil,ion channel,,ATP-sensitive inward rectifier potassium channel opener
+CLOUD127,Minoxidil Sulfate,ion channel,,ATP-sensitive inward rectifier potassium channel opener
+CLOUD235,Zonisamide,ion channel,,voltage-gated sodium channel blocker:voltage-gated calcium channel blocker
+CLOUD056,Bumetanide,ion transporter,Bumetanide-sensitive sodium-(potassium)-chloride cotransporter 2,bumetanide sensitive sodium-potassium-chloride cotransporter inhibitor
+CLOUD141,Lansoprazole,ion transporter,Gastric H(+)/K(+)-ATPase Gastric H(+)/K(+)-ATPase,potassium transporting ATPase inhibitor
+CLOUD229,(+/-)-Sulfinpyrazone,ion transporter,Mrp1,organic anion transporter inhibitor
+CLOUD103,Dihydroartemisinin,ion transporter,Na+/K+ ATPase 1,protozoal calcium transporting ATPase inhibitor
+CLOUD111,Artemether,ion transporter,Na+/K+ ATPase 1,protozoal calcium transporting ATPase inhibitor
+CLOUD077,Digitoxin,ion transporter,NONE,sodium-potassium transporting ATPase inhibitor
+CLOUD180,Diazoxide,ion transporter,NONE,thiazide sensitive sodium-chloride cotransporter inhibitor
+CLOUD244,Probenecid,ion transporter,Solute carrier family 22 member 6,organic anion transporter inhibitor
+CLOUD050,Methyclothiazide,ion transporter,thiazide sensitive sodium-chloride cotransporter,thiazide sensitive sodium-chloride cotransporter inhibitor
+CLOUD117,Irinotecan,isomerase,HrTS,topoisomerase inhibitor
+CLOUD237,7-Ethyl-10-Hydroxy-Camptothecin,isomerase,HrTS,topoisomerase inhibitor
+CLOUD063,Mitoxantrone,isomerase,topoisomerase,topoisomerase inhibitor
+CLOUD156,Enoxacin,isomerase,topoisomerase,bacterial topoisomerase inhibitor
+CLOUD231,Novobiocin,isomerase,topoisomerase,bacterial topoisomerase inhibitor
+CLOUD162,Carglumic Acid,ligase,None,carbamoyl-phosphate synthase activator
+CLOUD186,Methyldopa,lyase,Alpha-adrenoceptor,DOPA decarboxylase inhibitor
+CLOUD187,Zileuton,lyase,None,leukotriene synthase inhibitor
+CLOUD192,Acetazolamide,lyase,NONE,carbonic anhydrase inhibitor
+CLOUD241,Dichlorphenamide,lyase,NONE,carbonic anhydrase inhibitor
+CLOUD207,Eflornithine,lyase,ODC ODC,protozoal ornithine decarboxylase inhibitor:ornithine decarboxylase inhibitor
+CLOUD240,Acetohexamide,lyase ion channel,ATP dependent K+ channel,carbonic anhydrase inhibitor:sulfonylurea receptor agonist
+CLOUD139,Docetaxel,microtubule,Bcl-2,tubulin depolymerization inhibitor
+CLOUD087,Mebendazole,microtubule,Beta-tubulin,helminthic tubulin polymerization inhibitor
+CLOUD143,Albendazole,microtubule,Beta-tubulin,fungal tubulin polymerization inhibitor
+CLOUD152,Vinblastine,microtubule,Beta(II) isotype of Tubulin,tubulin polymerization inhibitor
+CLOUD108,Tiagabine,neurotransmitter transporter,GABA uptake,sodium- and chloride-dependent GABA transporter inhibitor
+CLOUD006,Maprotiline,neurotransmitter transporter,Norepinephrine reuptake,norepinephrine transporter inhibitor
+CLOUD044,Imipramine,neurotransmitter transporter,Norepinephrine reuptake,norepinephrine transporter inhibitor
+CLOUD109,Amoxapine,neurotransmitter transporter,Norepinephrine reuptake,norepinephrine transporter inhibitor
+CLOUD134,Trazodone,neurotransmitter transporter,Norepinephrine reuptake Serotonin reuptake,serotonin transporter inhibitor
+CLOUD033,Fluvoxamine,neurotransmitter transporter,Serotonin reuptake,serotonin transporter inhibitor
+CLOUD037,Sertraline,neurotransmitter transporter,Serotonin reuptake,serotonin transporter inhibitor
+CLOUD198,Citalopram,neurotransmitter transporter,Serotonin reuptake,serotonin transporter inhibitor
+CLOUD096,Tetrabenazine,neurotransmitter transporter,Synaptic vesicular amine transporter,synaptic vesicular amine transporter inhibitor
+CLOUD201,Armodafinil,neurotransmitter transporter,,dopamine transporter inhibitor
+CLOUD106,Prednisolone,nuclear receptor,CBG,glucocorticoid receptor agonist
+CLOUD001,Desoxycorticosterone Pivalate,nuclear receptor,Delta,mineralocorticoid receptor agonist
+CLOUD051,Testosterone,nuclear receptor,Dihydrotestosterone receptor,androgen receptor agonist
+CLOUD136,Hydroxyflutamide,nuclear receptor,Dihydrotestosterone receptor,androgen receptor antagonist
+CLOUD142,Flutamide,nuclear receptor,Dihydrotestosterone receptor,androgen receptor antagonist
+CLOUD064,Tamoxifen,nuclear receptor,ER,estrogen receptor antagonist
+CLOUD088,Ethinyl Estradiol,nuclear receptor,ER,estrogen receptor agonist
+CLOUD101,Endoxifen,nuclear receptor,ER,estrogen receptor antagonist
+CLOUD212,Clofibric Acid,nuclear receptor,LPL,peroxisome proliferator-activated receptor agonist
+CLOUD247,Clofibrate,nuclear receptor,LPL,peroxisome proliferator-activated receptor agonist
+CLOUD027,Ulipristal Acetate,nuclear receptor,None,progesterone receptor agonist:progesterone receptor antagonist
+CLOUD048,Canrenone,nuclear receptor,NONE,mineralocorticoid receptor antagonist
+CLOUD072,Spironolactone,nuclear receptor,NONE,mineralocorticoid receptor antagonist
+CLOUD158,Stanozolol,nuclear receptor,None,androgen receptor agonist
+CLOUD016,Rosiglitazone,nuclear receptor,PPARgamma,peroxisome proliferator-activated receptor agonist
+CLOUD043,Levonorgestrel,nuclear receptor,PR,progesterone receptor agonist
+CLOUD080,Acitretin,nuclear receptor,Stat3,retinoic acid receptor agonist
+CLOUD266,Guanadrel,other,Alpha-adrenoceptor,norepinephrine transporter substrate
+CLOUD260,Amantadine,other,M2 proton channel,viral matrix protein 2 inhibitor
+CLOUD066,Ezetimibe,other,Niemann-Pick C1 Like 1,Niemann-Pick C1-Like 1 protein inhibitor
+CLOUD154,Ezetimibe Glucuronide,other,Niemann-Pick C1 Like 1,Niemann-Pick C1-Like 1 protein inhibitor
+CLOUD018,Hydroxychloroquine,other,,toll-like receptor antagonist
+CLOUD119,Tacrolimus,other,,calcineurin inhibitor
+CLOUD157,Doxapram,other,,chemoreceptor agonist
+CLOUD224,Probucol,other,,ATP-binding cassette transporter blocker
+CLOUD190,Nitisinone,oxidoreductase,4HPPD,4-hydroxyphenylpyruvate dioxygenase inhibitor
+CLOUD070,Dutasteride,oxidoreductase,5 alpha-reductase 5 alpha-reductase,steroid 5-alpha reductase inhibitor
+CLOUD242,Fomepizole,oxidoreductase,Aldehyde reductase,alcohol dehydrogenase inhibitor
+CLOUD113,Itraconazole,oxidoreductase,CYPL1,fungal lanosterol 14-alpha demethylase inhibitor
+CLOUD203,Teriflunomide (A77 1726),oxidoreductase,DHOD,dihydroorotate dehydrogenase inhibitor
+CLOUD243,Leflunomide,oxidoreductase,DHOD,dihydroorotate dehydrogenase inhibitor
+CLOUD031,5-Fluorouracil,oxidoreductase,HrTS,thymidylate synthase inhibitor
+CLOUD102,6-Mercaptopurine,oxidoreductase,IMP dehydrogenase,ribonucleoside-diphosphate reductase inhibitor
+CLOUD165,Mycophenolic Acid,oxidoreductase,IMP dehydrogenase 2,bacterial inosine-5-monophosphate dehydrogenase inhibitor
+CLOUD171,Isoniazid,oxidoreductase,InhA,bacterial InhA inhibitor
+CLOUD020,Tranylcypromine,oxidoreductase,MAO-A MAO-B,monoamine oxidase inhibitor
+CLOUD030,Pargyline,oxidoreductase,MAO-B,monoamine oxidase inhibitor
+CLOUD036,Proguanil,oxidoreductase,NONE,protozoal dihydrofolate reductase inhibitor
+CLOUD062,Disulfiram,oxidoreductase,NONE,aldehyde dehydrogenase inhibitor
+CLOUD089,Methotrexate,oxidoreductase,None,dihydrofolate reductase inhibitor
+CLOUD104,Cerivastatin,oxidoreductase,None,hydroxymethylglutaryl coenzyme A reductase inhibitor
+CLOUD120,Tizoxanide,oxidoreductase,NONE,protozoal pyruvate ferredoxin oxidoreductase substrate
+CLOUD128,Cycloguanil,oxidoreductase,NONE,protozoal dihydrofolate reductase inhibitor
+CLOUD144,Trimethoprim,oxidoreductase,NONE,bacterial dihydrofolate reductase inhibitor
+CLOUD174,Nitazoxanide,oxidoreductase,NONE,protozoal pyruvate ferredoxin oxidoreductase substrate
+CLOUD193,Oxyphenbutazone,oxidoreductase,None,cyclooxygenase inhibitor
+CLOUD195,Trilostane,oxidoreductase,NONE,3-beta-hydroxysteroid dehydrogenase inhibitor
+CLOUD259,Sodium Diethyldithiocarbamate Trihydrate,oxidoreductase,NONE,aldehyde dehydrogenase inhibitor
+CLOUD230,Fenoprofen,oxidoreductase,prostaglandin-endoperoxide synthase (COX1 and COX2),cyclooxygenase inhibitor
+CLOUD179,Hydroxyurea,oxidoreductase,Ribonucleoside diphosphate reductase,ribonucleoside-diphosphate reductase inhibitor
+CLOUD209,Clofarabine,oxidoreductase,Ribonucleoside diphosphate reductase,ribonucleoside-diphosphate reductase inhibitor
+CLOUD202,Metyrosine,oxidoreductase,TH,tyrosine 3-monooxygenase inhibitor
+CLOUD175,Propylthiouracil,oxidoreductase,Thyroperoxidase Type-I 5-deiodinase,thyroid peroxidase inhibitor
+CLOUD085,Anastrozole,oxidoreductase,unspecific monooxygenase,aromatase inhibitor
+CLOUD167,Phenprocoumon,oxidoreductase,"Vitamin K1 2,3-epoxide reductase subunit 1",vitamin K epoxide reductase inhibitor
+CLOUD191,Allopurinol,oxidoreductase,Xanthine oxidase,xanthine dehydrogenase-oxidase inhibitor
+CLOUD215,Febuxostat,oxidoreductase,Xanthine oxidase,xanthine dehydrogenase-oxidase inhibitor
+CLOUD105,Hydralazine,oxidoreductase,,prolyl hydroxylase inhibitor
+CLOUD218,Atovaquone,oxidoreductase,,cytochrome bc1 inhibitor
+CLOUD166,Meclofenamic Acid,oxidoreductase hydrolase,None,cyclooxygenase inhibitor:phospholipase inhibitor
+CLOUD177,D-Cycloserine,penicillin-binding protein,D-alanylalanine synthetase A,bacterial alanine racemase inhibitor:bacterial D-alanine--D-alanine ligase
+CLOUD216,Cefmenoxime,penicillin-binding protein,PBP 3,bacterial penicillin-binding protein inhibitor
+CLOUD160,Tetracycline,ribosome,30S ribosome subunit,bacterial ribosome inhibitor
+CLOUD197,Paromomycin,ribosome,30S ribosome subunit,protozoal ribosome inhibitor
+CLOUD081,Azithromycin,ribosome,50S ribosome subunit,bacterial ribosome inhibitor
+CLOUD148,Metformin,transferase,ACC2,non-specific serine-threonine protein kinase activator
+CLOUD076,Entacapone,transferase,Catechol-O-methyltransferase,catechol O-methyltransferase inhibitor
+CLOUD115,Azacitidine,transferase,DNA methyltransferase,DNA methyltransferase inhibitor
+CLOUD252,Fosfomycin,transferase,Enoylpyruvate transferase,bacterial enolpyruvate transferase inhibitor
+CLOUD245,Pyrazinamide,transferase,Fatty acid synthetase I,bacterial fatty acid synthase inhibitor
+CLOUD248,Pyrazinoic Acid,transferase,Fatty acid synthetase I,bacterial fatty acid synthase inhibitor
+CLOUD196,Everolimus,transferase,FRAP FRAP,non-specific serine-threonine protein kinase inhibitor
+CLOUD223,Miglustat,transferase,GCS,ceramide glucosyltransferase inhibitor
+CLOUD249,Valproic Acid,transferase,Glycogen synthase kinase 3,GABA aminotransferase inhibitor
+CLOUD007,Isosorbide Dinitrate,transferase,Guanylyl Cyclase,guanylate cyclase activator
+CLOUD015,Amodiaquine,transferase,Histamine-N-methyltransferase,histamine N-methyltransferase inhibitor
+CLOUD176,Ribavirin 5'-Triphosphate,transferase,IMP dehydrogenase,viral RNA polymerase inhibitor
+CLOUD178,Ribavirin,transferase,IMP dehydrogenase,viral RNA polymerase inhibitor
+CLOUD057,Cytarabine,transferase,NONE,DNA polymerase inhibitor
+CLOUD078,Zalcitabine,transferase,NONE,viral reverse transcriptase inhibitor
+CLOUD086,Rifabutin,transferase,NONE,bacterial RNA polymerase inhibitor
+CLOUD146,Abacavir,transferase,NONE,viral reverse transcriptase inhibitor
+CLOUD161,Sulfameter,transferase,None,bacterial dihydropteroate synthase inhibitor
+CLOUD172,Amprenavir,transferase,NONE,viral protease inhibitor
+CLOUD185,Ethambutol,transferase,NONE,bacterial arabinosyltransferase inhibitor
+CLOUD233,Ganciclovir,transferase,NONE,viral DNA polymerase inhibitor
+CLOUD265,Foscarnet,transferase,NONE,viral DNA polymerase inhibitor
+CLOUD221,Efavirenz,transferase,viral HIV-1 RT,viral reverse transcriptase inhibitor
+CLOUD003,Chloroquine,unknown,unknown,unknown
+CLOUD029,Diphenidol,unknown,unknown,unknown
+CLOUD047,Pentamidine,unknown,unknown,unknown
+CLOUD052,Riluzole,unknown,unknown,unknown
+CLOUD083,Niclosamide,unknown,unknown,unknown
+CLOUD094,Diethylcarbamazine,unknown,unknown,unknown
+CLOUD121,Thalidomide,unknown,unknown,unknown
+CLOUD129,Mefloquine,unknown,unknown,unknown
+CLOUD130,Lumefantrine,unknown,unknown,unknown
+CLOUD131,Trimethobenzamide,unknown,unknown,unknown
+CLOUD149,Ranolazine,unknown,unknown,unknown
+CLOUD150,Lithium Citrate,unknown,unknown,unknown
+CLOUD151,Praziquantel,unknown,unknown,unknown
+CLOUD153,Metaxalone,unknown,unknown,unknown
+CLOUD168,Mesalazine,unknown,unknown,unknown
+CLOUD169,Mitotane,unknown,unknown,unknown
+CLOUD173,Thiabendazole,unknown,unknown,unknown
+CLOUD183,Chlorphenesin,unknown,unknown,unknown
+CLOUD194,4-Aminosalicylic Acid,unknown,unknown,unknown
+CLOUD199,Halofantrine,unknown,unknown,unknown
+CLOUD213,Chlorzoxazone,unknown,unknown,unknown
+CLOUD217,Rufinamide,unknown,unknown,unknown
+CLOUD228,Mebutamate,unknown,unknown,unknown
+CLOUD232,Quinine,unknown,unknown,unknown
+CLOUD236,Glatiramer Acetate,unknown,unknown,unknown
+CLOUD238,Tinidazole,unknown,unknown,unknown
+CLOUD239,Felbamate,unknown,unknown,unknown
+CLOUD255,Auranofin,unknown,unknown,unknown
+CLOUD263,Phensuximide,unknown,unknown,unknown
